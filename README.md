@@ -4,3 +4,4 @@
 2. [Form elements](/form_elements)
 3. [Form validation](/form_validation)
 4. [Quote list](/quote_list)
+5. [Platform check](/platform_check)
