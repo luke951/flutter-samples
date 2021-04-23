@@ -7,4 +7,5 @@
 5. [Platform check](/platform_check)
 6. [listView builder](/list_view_builder)
 7. [gridView](/grid_view)
-7. [Navigation](/navigation)
+8. [Navigation](/navigation)
+9. [HTTP GET](/http_get)

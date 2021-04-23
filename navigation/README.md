@@ -1,5 +1,5 @@
-# Tab & Bottom Navigation
+# HTTP GET
 
-Navigation example
+an HTTP GET request example
 
 <img src="preview.gif" height="600em" />
