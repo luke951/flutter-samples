@@ -13,3 +13,4 @@
 11. [Table](/table)
 12. [Routing example](/routing)
 13. [Bar chart](/bar_chart)
+14. [Page selector](/page_selector)
