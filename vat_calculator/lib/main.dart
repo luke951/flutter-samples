@@ -19,7 +19,7 @@ class VatCalculator extends StatelessWidget {
           billAmount = 0.0;
         }
       },
-      decoration: InputDecoration(labelText: "Bill amount(\$)"),
+      decoration: InputDecoration(labelText: "Base amount(\$)"),
     );
 
     // Create another input field
