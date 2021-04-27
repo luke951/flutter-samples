@@ -15,3 +15,5 @@
 13. [Bar chart](/bar_chart)
 14. [Page selector](/page_selector)
 15. [Animation example](/animation)
+16. [Video player](/video_player_app)
+17. [PDF view](/pdf_view_app)
