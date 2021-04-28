@@ -18,3 +18,4 @@
 16. [Video player](/video_player_app)
 17. [PDF view](/pdf_view_app)
 18. [Vat calculator](/vat_calculator)
+18. [Custom font](/custom_font)
