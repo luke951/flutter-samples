@@ -25,3 +25,5 @@
 23. [World time app](/world_time_app)
 24. [Age calculator](/age_calculator)
 25. [Canvas app](/canvas_app)
+26. [Global state](/global_state)
+27. [Redux counter](/redux_counter)
