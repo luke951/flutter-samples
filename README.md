@@ -29,3 +29,4 @@
 27. [Redux counter](/redux_counter)
 28. [Provider counter](/provider_counter)
 29. [BLoC pattern counter](/bloc_counter)
+30. [Google firebase android authentication](/firebase_android_authentication)
